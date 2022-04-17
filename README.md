@@ -1,5 +1,9 @@
 ### Hi, welcome to my github! My name is Francimário Filho
-
+##
+<ul>
+<li>💻📱Currently working on the Sei Services app as a mobile developer</li>
+<li>📚 Studying Flutter/Dart</li>
+</ul>
 <div align="center">
   <a href="https://github.com/FrancimarioAraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancimarioAraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
