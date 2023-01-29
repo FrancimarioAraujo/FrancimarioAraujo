@@ -30,8 +30,7 @@
 </div>
   
   <ul>
-<li>💻📱Currently working on the Sei Services app as a mobile developer</li>
-<li>📚 Studying Flutter/Dart</li>
+<li>💻📱Currently working on JustAppsBr as a mobile developer</li>
 </ul>
 
 
