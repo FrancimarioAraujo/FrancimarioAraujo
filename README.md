@@ -30,7 +30,7 @@
 </div>
   
   <ul>
-<li>💻📱Currently working on JustAppsBr as a mobile developer</li>
+<li>💻📱Currently working as a mobile developer</li>
 </ul>
 
 
